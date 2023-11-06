@@ -25,9 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Laravel, Mysql**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 I’m currently Learning **React,Node Js, Laravel, Mysql**
 
 - 📝 My Portofolio on [YogaArdiana](https://yogaardiana.netlify.app/)
 
