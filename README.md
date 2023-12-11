@@ -2,7 +2,7 @@
 <!--horizontal divider(gradiant)-->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" style="display: flex; align-items: center;">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm YogaArdiana</h1></summary> 
   </ul>
