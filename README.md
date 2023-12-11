@@ -6,6 +6,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm YogaArdiana</h1></summary> 
   </ul>
+  <a href="https://app.daily.dev/yogaardiana"><img src="https://api.daily.dev/devcards/17e2243a886944f686d0ee9607ea3dd7.png?r=sd1" width="400" alt="Yogaardiana's Dev Card"/></a>
 </div>
 
 
