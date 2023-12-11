@@ -2,7 +2,7 @@
 <!--horizontal divider(gradiant)-->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc" style="display: flex; align-items: center;">
+<div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm YogaArdiana</h1></summary> 
   </ul>
@@ -13,7 +13,7 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-    <a href="https://app.daily.dev/yogaardiana"><img src="https://api.daily.dev/devcards/17e2243a886944f686d0ee9607ea3dd7.png?r=sd1" width="200" alt="Yogaardiana's Dev Card"/></a>
+    <a href="https://app.daily.dev/yogaardiana"><img src="https://api.daily.dev/devcards/17e2243a886944f686d0ee9607ea3dd7.png?r=sd1" width="400" alt="Yogaardiana's Dev Card"/></a>
 </div>
 
 
