@@ -11,8 +11,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg3cGhrMXk4aXA1c25nd256cmgzajl0cmRtcXl5b2czc2tqcWN3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"
+       alt="grid" /></a>
     <a href="https://app.daily.dev/yogaardiana"><img src="https://api.daily.dev/devcards/17e2243a886944f686d0ee9607ea3dd7.png?r=sd1" width="400" alt="Yogaardiana's Dev Card"/></a>
 </div>
 
