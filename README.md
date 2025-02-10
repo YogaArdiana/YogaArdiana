@@ -24,7 +24,6 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently Learning **PHP, Javascript, Laravel, Mysql**
 
 - 📝 My Portofolio on [YogaArdiana](https://yogaardiana.netlify.app/)
 
@@ -40,7 +39,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technology That I Usually Use👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
